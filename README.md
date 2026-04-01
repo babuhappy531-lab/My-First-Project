@@ -20,3 +20,14 @@
 4. Type `clang arithmetical_operation.c -o arith`.
 5. Type `./arith` to run the program in termux.
 
+## 🌐 Web Dashboard (PHP & CSS)
+
+A secure login portal with a gaming-themed dashboard.
+
+1. Open Termux.
+2. Install PHP: `pkg install php`.
+3. Run the server: `php -S localhost:8080`.
+4. Open Chrome and go to `http://localhost:8080/index.php`.
+5. **Credentials:** - Username: `Happy`
+   - Password: `happybhai7890`
+   - 
