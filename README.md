@@ -22,7 +22,7 @@
 
 ## 🌐 Web Dashboard (PHP & CSS)
 
-A secure login portal with a gaming-themed dashboard.
+A login portal with a gaming-themed dashboard.
 
 1. Open Termux.
 2. Install PHP: `pkg install php`.
@@ -30,4 +30,3 @@ A secure login portal with a gaming-themed dashboard.
 4. Open Chrome and go to `http://localhost:8080/index.php`.
 5. **Credentials:** - Username: `Happy`
    - Password: `happybhai7890`
-   - 
