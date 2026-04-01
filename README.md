@@ -7,26 +7,32 @@
 ## ⚙️ C Program
 - **arithmetical_operation.c:** This program ask for two numbers and then ask you choose what opertion do you want like addition, subtraction, multiplication or division and then give you the result.
 
-## 🛠️ How to use the python programs
-1. Open Termux.
-2. Update the termux using `pkg update && pkg upgrade -y`.
-3. Run this command to install python to run the programs `pkg install python`.
-4. Type `python password_strength_checker.py` to run the password strength checker program or `python guessing_game.py` to run the guessing game program.
+## 🌐 PHP Program
+-**index.php and dashboard.php:** It is a program made with HTML, CSS, JAVASCRIPT and PHP.It has a login page and has only one user is admin whose name is "Happy" it shows the stats of that user like rank and other things.Its a simple web login page and dashboard attached with it.
+
+## 🛠️ How to use python programs
+1. Open termux
+2. Run this command `pkg install git -y`
+3. After installation git run `git clone https://github.com/babuhappy531-lab/My-First-Project.git`
+4. Now enter the directory by `cd My-First-Project && ls`
+5. choose the file you want and write python and the name of the file e.g:- `python password_stregth_checker.py` or `python guessing_game.py` and press enter to run.
 
 ## 🛠️ How to use the C program
-1. Open termux.
-2. Update it using `pkg update && pkg upgrade -y`.
-3. Install C compiler using `pkg install clang`.
-4. Type `clang arithmetical_operation.c -o arith`.
-5. Type `./arith` to run the program in termux.
+1. Open termux
+2. Run this command `pkg install git -y`
+3. Install the clang `pkg install clang -y`
+4. After installation git run `git clone https://github.com/babuhappy531-lab/My-First-Project.git`
+5. Now enter the directory by `cd My-First-Project && ls`
+6. Type `clang arithmetical_operation.c -o arith`
+7. Run `./arith`
+
 
 ## 🌐 Web Dashboard (PHP & CSS)
-
-A login portal with a gaming-themed dashboard.
-
 1. Open Termux.
-2. Install PHP: `pkg install php`.
-3. Run the server: `php -S localhost:8080`.
-4. Open Chrome and go to `http://localhost:8080/index.php`.
-5. **Credentials:** - Username: `Happy`
+2. Install git `pkg install git -y`
+3. Download the project `git clone https://github.com/babuhappy531-lab/My-First-Project.git`
+4. Install PHP: `pkg install php`.
+5. Run the server: `php -S localhost:8080`.
+6. Open Chrome and go to `http://localhost:8080/index.php`.
+7. **Credentials:** - Username: `Happy`
    - Password: `happybhai7890`
