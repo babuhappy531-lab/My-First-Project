@@ -12,27 +12,44 @@
 
 ## 🛠️ How to use python programs
 1. Open termux
-2. Run this command `pkg install git -y`
-3. After installation git run `git clone https://github.com/babuhappy531-lab/My-First-Project.git`
-4. Now enter the directory by `cd My-First-Project && ls`
-5. choose the file you want and write python and the name of the file e.g:- `python password_stregth_checker.py` or `python guessing_game.py` and press enter to run.
+2. Run this command
+`pkg install git -y`
+4. After installation git run
+`git clone https://github.com/babuhappy531-lab/My-First-Project.git`
+6. Now enter the directory by
+`cd My-First-Project && ls`
+8. choose the file you want and write python and the name of the file e.g:-
+`python password_strength_checker.py`
+or
+`python guessing_game.py`
+and press enter to run.
 
 ## 🛠️ How to use the C program
 1. Open termux
-2. Run this command `pkg install git -y`
-3. Install the clang `pkg install clang -y`
-4. After installation git run `git clone https://github.com/babuhappy531-lab/My-First-Project.git`
-5. Now enter the directory by `cd My-First-Project && ls`
-6. Type `clang arithmetical_operation.c -o arith`
-7. Run `./arith`
+2. Run this command
+`pkg install git -y`
+4. Install the clang
+`pkg install clang -y`
+6. After installation git run
+`git clone https://github.com/babuhappy531-lab/My-First-Project.git`
+8. Now enter the directory by
+`cd My-First-Project && ls`
+10. Type
+`clang arithmetical_operation.c -o arith`
+12. Run
+`./arith`
 
 
 ## 🌐 Web Dashboard (PHP & CSS)
 1. Open Termux.
-2. Install git `pkg install git -y`
-3. Download the project `git clone https://github.com/babuhappy531-lab/My-First-Project.git`
-4. Install PHP: `pkg install php`.
-5. Run the server: `php -S localhost:8080`.
-6. Open Chrome and go to `http://localhost:8080/index.php`.
-7. **Credentials:** - Username: `Happy`
+2. Install git
+`pkg install git -y`
+4. Download the project
+`git clone https://github.com/babuhappy531-lab/My-First-Project.git`
+6. Install PHP:
+`pkg install php`.
+8. Run the server:
+`php -S localhost:8080`.
+10. Open Chrome and go to `http://localhost:8080/index.php`.
+11. **Credentials:** - Username: `Happy`
    - Password: `happybhai7890`
